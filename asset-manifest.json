@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b784af7.css",
+    "main.js": "/static/js/main.ff54440a.js",
+    "static/media/logo.svg": "/static/media/logo.3c8deb17837d1659bd5a28261ea80ded.svg",
+    "static/media/briefcase.svg": "/static/media/briefcase.09623a010aab74ed1efc39ce68a040e1.svg",
+    "static/media/user.svg": "/static/media/user.2472db1f95d87494435bbc90b86d0d87.svg",
+    "static/media/icon1.svg": "/static/media/icon1.d47cbf8e51429d42f8c3a1de82d39432.svg",
+    "static/media/circleCheckFull.svg": "/static/media/circleCheckFull.eda494d87b5ebce5d13ceb10b71099e1.svg",
+    "static/media/lock.svg": "/static/media/lock.b10b3bbc72fd3d09b73d8e0b0489e529.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.e6d86d0bf806caafac44.svg",
+    "static/media/Polygon2.svg": "/static/media/Polygon2.667e8525164e8db1e34b456c8d8e9b6d.svg",
+    "static/media/arrow-back.svg": "/static/media/arrow-back.3d6975043712b2f5839bcd2cec936d2e.svg",
+    "static/media/Polygon1.svg": "/static/media/Polygon1.3012f93da2b161d0b88b860a99f3179c.svg",
+    "main.2b784af7.css.map": "/static/css/main.2b784af7.css.map",
+    "main.ff54440a.js.map": "/static/js/main.ff54440a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b784af7.css",
+    "static/js/main.ff54440a.js"
+  ]
+}
